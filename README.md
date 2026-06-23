@@ -31,4 +31,4 @@ Power Distribution System
 
 Batteries
 
-GPS and other avionics how do i add this to
+GPS and other avionics
