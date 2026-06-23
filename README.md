@@ -1,4 +1,4 @@
-# gc35-blimp-wiring-diagram
+#  project doc
 GC35 Blimp Electrical Integration Diagram
 
 Overview:
